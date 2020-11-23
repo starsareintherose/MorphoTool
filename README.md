@@ -1,5 +1,5 @@
 # Introduction for MorphoTool
-    A Tool using shell aperture view to id Mollusca species.
+    A Tool using shell morphology to id Mollusca species.
     This project is now organized by *Miss Yi Wang (王怡)* and directed by me (*Guoyi Zhang*).
     The idea is also produced by myself. In the future, this project will be managed by Gas-ST TEAM or me.
 # Future Aim
