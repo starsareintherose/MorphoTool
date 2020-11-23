@@ -10,4 +10,4 @@
     Guoyi Zhang: GuoyiZhang@malacology.net
     Other information would be published on malacology.net
 # Reputation
-   **Have won 全国大学生生命科学竞赛 (CULSU) 山东省 (Shanong Province) The First Class Prize.**
+   **Have won 全国大学生生命科学竞赛 (CULSU) 山东省 (Shandong Province) The First Class Prize.**
