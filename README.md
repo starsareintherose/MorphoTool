@@ -6,7 +6,7 @@
    - We will publish manuscript on PeerJ Preprint and then share our project file on this page.
    - Continue to expand our database.
    - Work with people interested in our project to develop a specific GUI for the sample ID.
-# Contact informaion
+# Contact information
     Guoyi Zhang: GuoyiZhang@malacology.net
     Other information would be published on malacology.net
 # Reputation
